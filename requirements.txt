@@ -1,0 +1,4 @@
+libtorrent
+rich
+requests
+tqdm
